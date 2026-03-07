@@ -1,4 +1,4 @@
-# Proposed Solution approach
+# Proposed Solution approach (checkout Proposed_Solution.pdf)
 
 A **JSON-driven, React-based learning game engine** that renders multiple distinct game types from a single codebase by swapping the JSON config file.
 
