@@ -98,7 +98,11 @@ configs/
 2. Register it in `src/engine/GameEngine.jsx` inside `MODULE_MAP`
 3. Add a validator function in `src/engine/ConfigLoader.js` under `VALIDATORS`
 
+## Run:
 
-For the first round of Hackathon
-
-Yeet
+```bash
+git clone https://github.com/raj8664/GEH26
+cd GEH26
+npm install
+npm run dev
+```
