@@ -1,0 +1,45 @@
+{
+  "gameType": "quiz",
+  "title": "Human Body — Science",
+  "topic": "Science",
+  "timer": 30,
+  "lives": 3,
+  "theme": {
+    "primary": "#4F46E5",
+    "font": "Inter"
+  },
+  "scoring": {
+    "correct": 10,
+    "wrong": -5
+  },
+  "questions": [
+    {
+      "question": "How many bones are in the adult human body?",
+      "options": ["206", "208", "185", "196"],
+      "answer": "206",
+      "explanation": "An adult human body has exactly 206 bones."
+    },
+    {
+      "question": "Which organ pumps blood throughout the body?",
+      "options": ["Liver", "Kidney", "Heart", "Lung"],
+      "answer": "Heart"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Brain", "Liver", "Skin", "Lungs"],
+      "answer": "Skin",
+      "explanation": "Skin is the largest organ by surface area and weight."
+    },
+    {
+      "question": "How many chambers does the human heart have?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "question": "Which vitamin is produced when skin is exposed to sunlight?",
+      "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin D",
+      "explanation": "Sunlight triggers Vitamin D synthesis in the skin."
+    }
+  ]
+}

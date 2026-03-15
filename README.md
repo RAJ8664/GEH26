@@ -1,4 +1,4 @@
-# Proposed Solution approach (checkout Proposed_Solution.pdf)
+# Proposed Solution approach
 
 A **JSON-driven, React-based learning game engine** that renders multiple distinct game types from a single codebase by swapping the JSON config file.
 
@@ -97,3 +97,8 @@ configs/
 1. Create `src/modules/YourGame/YourGame.jsx` accepting `{ config, onCorrect, onWrong }` props
 2. Register it in `src/engine/GameEngine.jsx` inside `MODULE_MAP`
 3. Add a validator function in `src/engine/ConfigLoader.js` under `VALIDATORS`
+
+
+For the first round of Hackathon
+
+Yeet

@@ -1,0 +1,24 @@
+{
+  "gameType": "dragdrop",
+  "title": "Capital Cities — Geography",
+  "topic": "Geography",
+  "timer": 0,
+  "lives": 3,
+  "theme": {
+    "primary": "#10B981",
+    "font": "Inter"
+  },
+  "scoring": {
+    "correct": 10,
+    "wrong": -5
+  },
+  "pairs": [
+    { "term": "India",     "match": "New Delhi" },
+    { "term": "France",    "match": "Paris"     },
+    { "term": "Japan",     "match": "Tokyo"     },
+    { "term": "Brazil",    "match": "Brasília"  },
+    { "term": "Australia", "match": "Canberra"  },
+    { "term": "Germany",   "match": "Berlin"    },
+    { "term": "Canada",    "match": "Ottawa"    }
+  ]
+}
